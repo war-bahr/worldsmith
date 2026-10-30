@@ -1,0 +1,17 @@
+{
+  "name": "Worldsmith",
+  "short_name": "Worldsmith",
+  "description": "Sculpt a newborn world, nurture life, and guide mortals who decide what kind of god you are.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05081a",
+  "theme_color": "#0b1230",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "categories": ["games", "entertainment"]
+}
